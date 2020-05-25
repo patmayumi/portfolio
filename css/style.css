@@ -229,6 +229,10 @@ hr {
 /*----------------------------------------------------
 	PORTFOLIO
 ------------------------------------------------------*/
+.banner-info {
+	font-size: 12px;
+	font-style: italic;
+}
 #works {
 	padding: 120px 0 0;
 	background: #f2f2f2;

@@ -197,7 +197,7 @@ hr {
 
 @media(min-width:768px) {
 #intro {
-	height: 100%;
+	height: 95%;
 	padding: 0;
 }
 #intro .intro-body .intro-text {
@@ -230,7 +230,7 @@ hr {
 	PORTFOLIO
 ------------------------------------------------------*/
 .banner-info {
-	font-size: 12px;
+	font-size: 14px;
 	font-style: italic;
 }
 #works {
